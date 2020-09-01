@@ -1,3 +1,5 @@
 file2 content
 
 something new
+
+added new changes for branch2
